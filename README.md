@@ -1,4 +1,4 @@
-### README
+### Evil Chat
 
 Simple chat based on Components without using Assets pipline.
 
